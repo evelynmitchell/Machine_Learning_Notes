@@ -1,8 +1,15 @@
 # Todo
 
-You can create todos in Foam.
+- [x] Create foambubble repository for machine learning notes
+- [ ] Classify repositories
+  - [ ] Replicated or not
+  - [ ] (Language, Image, Audio, Time Series, Reinforcement Learning, etc.)
+  - [ ] Paper importance
+- [ ] Syllabus
+  - [ ] Which course to do first
+    - [ ] Fast.ai
+  - [ ] Project ideas
+    - [ ] simple
+    - [ ] intermediate
+    - [ ] Interesting
 
-- [x] This is an example of a todo list item that's complete
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
