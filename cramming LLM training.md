@@ -1,11 +1,17 @@
 # cramming LLM training
 
 source: [cramming](https://github.com/JonasGeiping/cramming)
+
 type: Language
+
 keywords: small memory, BERT, LLM, optimize, training, mlops
+
 paper: [Cramming: Training a Language Model on a Single GPU in One Day](https://arxiv.org/abs/2212.14034)
+
 replicated: not yet
+
 papers with code: (https://paperswithcode.com/paper/cramming-training-a-language-model-on-a)
+
 tasks: language modeling, next sentence prediction 
 
 ## Summary
