@@ -4,6 +4,11 @@
 
 ### Repositories I have cloned
 
+[cramming](cramming%20LLM%20training.md) a fast and small way to train a language model
+
+### Summaries, Finding Guides 
+
+[Language Tasks](Language%20Tasks.md) What sorts of tasks do we investigate using language models?
 
 ## Using Foam
 
