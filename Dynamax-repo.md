@@ -1,6 +1,6 @@
 # Dynamax-repo.md
 
-Note Created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
+Note Created: 2024-01-25
 
 source: [probml/dynamax](https://github.com/probml/dynamax)
 
