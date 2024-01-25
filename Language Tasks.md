@@ -1,6 +1,6 @@
 # Language Tasks
 
-## next sentence prediction
+## next sentence prediction, sequence prediction
 
 Definition:
 
